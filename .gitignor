@@ -1,0 +1,13 @@
+# Binary hasil build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# File log
+*.log
+
+# Folder vendor (jika nanti pakai)
+vendor/

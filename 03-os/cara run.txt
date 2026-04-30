@@ -1,0 +1,4 @@
+cara run nya untuk set Arguments di os.go :
+```go run os.go arg1 arg2 arg3
+jika ingin ada spasi di argumen, bisa menggunakan tanda kutip
+```go run os.go "argumen dengan spasi"
